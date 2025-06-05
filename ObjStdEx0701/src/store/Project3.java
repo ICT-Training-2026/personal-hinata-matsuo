@@ -1,5 +1,5 @@
 package store;
 
-public cass Project3 {
+public class Project3 {
 
 }
